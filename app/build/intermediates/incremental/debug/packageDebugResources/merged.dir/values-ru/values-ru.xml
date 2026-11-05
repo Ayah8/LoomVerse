@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="action_add">Добавить</string>
+    <string name="action_clear_cache">Очистить кэш изображений</string>
+    <string name="action_close">Закрыть</string>
+    <string name="action_done">Готово</string>
+    <string name="action_remove">Удалить</string>
+    <string name="app_name">LoomVerse</string>
+    <string name="dark_mode">Темная тема</string>
+    <string name="dialog_add_word">Добавить слово</string>
+    <string name="dialog_archived_chats">Архивированные чаты</string>
+    <string name="dialog_data_privacy">Данные и конфиденциальность</string>
+    <string name="dialog_muted_words">Скрытые слова</string>
+    <string name="dialog_select_language">Выбрать язык</string>
+    <string name="dialog_select_persona">Выбрать персону</string>
+    <string name="dialog_text_size">Размер текста</string>
+    <string name="disabled">Выключено</string>
+    <string name="enabled">Включено</string>
+    <string name="light_mode">Светлая тема</string>
+    <string name="msg_back">Назад</string>
+    <string name="msg_image_cache_cleared">Кэш изображений очищен</string>
+    <string name="msg_more_options_soon">Больше опций скоро.</string>
+    <string name="msg_no_archived_chats">Нет архивированных чатов.</string>
+    <string name="msg_selected">Выбрано</string>
+    <string name="off">Выкл</string>
+    <string name="on">Вкл</string>
+    <string name="settings_advanced_mode">Расширенный режим</string>
+    <string name="settings_appearance">Внешний вид</string>
+    <string name="settings_archived">Архив</string>
+    <string name="settings_category_account">Настройки аккаунта</string>
+    <string name="settings_category_app">Настройки приложения</string>
+    <string name="settings_category_content">Настройки контента</string>
+    <string name="settings_data_privacy">Данные и конфиденциальность</string>
+    <string name="settings_language">Язык</string>
+    <string name="settings_muted_words">Скрытые слова</string>
+    <string name="settings_notifications">Уведомления</string>
+    <string name="settings_persona">Персоны</string>
+    <string name="settings_text_size">Размер текста</string>
+    <string name="settings_title">Настройки</string>
+    <string name="words_count_suffix">слов</string>
+</resources>
